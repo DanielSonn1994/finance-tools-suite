@@ -128,3 +128,14 @@ Planned future projects include:
 - Financial forecasting tools
 
 These projects will move toward more advanced **data science and financial analysis workflows**.
+
+python-finance-projects
+│
+├── loan_calculator.py
+├── roi_calculator.py
+├── cash_flow_projection.py
+├── sales_data_analysis.py
+├── csv_sales_analysis.py
+├── sales_trend_analysis.py
+├── growth_rate_calculator.py
+└── README.md
