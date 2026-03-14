@@ -115,17 +115,38 @@ Features:
 
 ## Skills Demonstrated
 
-These projects demonstrate the following Python skills:
+These projects demonstrate the following Python and analytical skills:
 
-- Python fundamentals
+### Python Fundamentals
 - Functions
-- Loops
-- Conditional statements
-- Financial calculations
-- Data analysis
-- File handling
-- Basic statistical analysis
-- Clean program structure
+- Variables and data types
+- Loops and iteration
+- Conditional logic
+- Formatted output (f-strings)
+
+### Financial Modelling
+- Loan amortization calculations
+- Return on investment (ROI)
+- Profit margin calculations
+- Cash flow projections
+- Break-even and business metrics
+
+### Data Analysis
+- Sales trend analysis
+- Growth rate calculations
+- Multi-period financial analysis
+- Descriptive statistics (mean, median, etc.)
+
+### Data Handling
+- Working with lists
+- CSV file handling
+- Basic dataset analysis
+
+### Business Analytics Concepts
+- Revenue vs cost analysis
+- Profitability analysis
+- Sales trend interpretation
+- Financial forecasting basics
 
 ---
 
@@ -141,13 +162,3 @@ Planned future projects include:
 
 These projects will move toward more advanced **data science and financial analysis workflows**.
 
-python-finance-projects
-│
-├── loan_calculator.py
-├── roi_calculator.py
-├── cash_flow_projection.py
-├── sales_data_analysis.py
-├── csv_sales_analysis.py
-├── sales_trend_analysis.py
-├── growth_rate_calculator.py
-└── README.md
