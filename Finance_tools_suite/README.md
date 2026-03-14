@@ -1,5 +1,35 @@
 # Python Finance & Data Analysis Projects
 
+## Table of Contents
+
+- [Tools Included](#tools-included)
+- [Completed Projects](#completed-projects)
+- [Project Descriptions](#project-descriptions)
+- [Skills Demonstrated](#skills-demonstrated)
+
+
+## Tools Included
+
+This repository contains several financial and data analysis tools built with Python.
+
+### Financial Tools
+- Loan Calculator
+- ROI Calculator
+- Profit Margin Calculator
+- Growth Rate Calculator
+
+### Business Analysis Tools
+- Cash Flow Projection
+- Break-Even Analysis
+- Revenue Growth Analysis
+
+### Data Analysis Tools
+- Sales Data Analysis
+- CSV Sales Analysis
+- Sales Trend Analysis
+- Multi-Period Growth Analysis
+
+
 ## Completed Projects
 
 1. Loan Calculator  
@@ -11,24 +41,6 @@
 7. Growth Rate Calculator  
 8. Multi-Period Growth Analysis  
 9. Profit Margin Calculator
-
-This repository contains a collection of Python projects focused on financial modelling and basic data analysis. The goal of these projects is to practice Python fundamentals while applying them to real-world financial and business scenarios.
-
-## Projects
-
-### Loan Calculator
-Calculates monthly loan repayments using the loan amortization formula.
-
-Features:
-- Monthly payment calculation
-- Total repayment calculation
-- Total interest paid
-
-Concepts used:
-- User input
-- Mathematical formulas
-- Conditional logic
-- Formatted output
 
 ---
 
