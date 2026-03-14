@@ -1,5 +1,17 @@
 # Python Finance & Data Analysis Projects
 
+## Completed Projects
+
+1. Loan Calculator  
+2. ROI Calculator  
+3. Cash Flow Projection  
+4. Sales Data Analysis  
+5. CSV Sales Analysis  
+6. Sales Trend Analysis  
+7. Growth Rate Calculator  
+8. Multi-Period Growth Analysis  
+9. Profit Margin Calculator
+
 This repository contains a collection of Python projects focused on financial modelling and basic data analysis. The goal of these projects is to practice Python fundamentals while applying them to real-world financial and business scenarios.
 
 ## Projects
