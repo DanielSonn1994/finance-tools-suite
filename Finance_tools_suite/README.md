@@ -43,6 +43,24 @@ This repository contains several financial and data analysis tools built with Py
 9. Profit Margin Calculator
 
 ---
+## Project Descriptions
+
+### Loan Calculator
+Calculates monthly loan repayments using the loan amortization formula.
+
+Features:
+- Monthly payment calculation
+- Total repayment calculation
+- Total interest paid
+
+Concepts used:
+- User input handling
+- Mathematical formulas
+- Loan amortization calculations
+- Conditional logic
+- Formatted output (f-strings)
+
+---
 
 ### ROI Calculator
 Calculates Return on Investment (ROI) and determines whether the investment resulted in a profit, loss, or break-even.
@@ -51,6 +69,7 @@ Concepts used:
 - Arithmetic calculations
 - Percentage calculations
 - Conditional logic
+- Financial performance analysis
 
 ---
 
@@ -58,10 +77,10 @@ Concepts used:
 Projects the future balance of a business over multiple months by calculating income minus expenses.
 
 Concepts used:
-- Loops
+- Loops and iteration
 - Financial forecasting
 - User input
-- Basic modelling
+- Basic financial modelling
 
 ---
 
@@ -77,8 +96,9 @@ Statistics calculated:
 - Standard deviation
 
 Concepts used:
-- Lists
+- Working with lists
 - Python statistics module
+- Descriptive statistics
 - Basic data analysis
 
 ---
@@ -95,35 +115,48 @@ Concepts used:
 ---
 
 ### Sales Trend Analysis
-Analyzes sales data over time and identifies the overall trend.
-
-Features:
-- Calculates total change
-- Calculates average change per period
-- Detects upward, downward, or stable trends
-- Displays period-by-period changes
+Analyzes sales data over time and identifies overall trends.
 
 Concepts used:
-- Loops
 - List indexing
-- Conditional logic
-- Time-series style analysis
+- Loops and iteration
+- Trend detection
+- Basic time-series analysis
 
 ---
 
 ### Growth Rate Calculator
 Calculates the percentage growth between two values.
 
-Formula used:
-
-Growth Rate = (Final Value − Initial Value) / Initial Value × 100
-
-Features:
-- User input
-- Percentage growth calculation
-- Interpretation of growth results
+Concepts used:
+- Percentage growth calculations
+- User input handling
+- Financial performance analysis
+- Conditional logic
 
 ---
+
+### Multi-Period Growth Analysis
+Analyzes growth rates across multiple periods of financial data.
+
+Concepts used:
+- Loop-based calculations
+- Multi-period financial analysis
+- Percentage growth calculations
+- List data processing
+
+---
+
+### Profit Margin Calculator
+Calculates profit and profit margin based on revenue and costs.
+
+Concepts used:
+- Profitability analysis
+- Financial formulas
+- User input validation
+- Conditional logic
+- Formatted numerical output
+
 
 ## Skills Demonstrated
 
