@@ -157,6 +157,24 @@ Concepts used:
 - Conditional logic
 - Formatted numerical output
 
+### Break-Even Calculator
+Calculates how many units must be sold to cover fixed costs.
+
+Concepts used:
+- Financial formulas
+- User input validation
+- Conditional logic
+- Break-even analysis
+  
+ ### Pricing Strategy Calculator
+Calculates a suggested selling price based on product cost and markup percentage.
+
+Concepts used:
+- Percentage calculations
+- Financial pricing models
+- User input handling
+- Formatted output
+
 
 ## Skills Demonstrated
 
