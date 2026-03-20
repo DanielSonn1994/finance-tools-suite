@@ -47,7 +47,9 @@ This repository contains several financial and data analysis tools built with Py
 13. Cost Structure Analyzer
 14. Monthly Business KPI Tracker  
 15. Customer Lifetime Value Calculator  
-16. Unit Economics Calculator  
+16. Unit Economics Calculator
+17. Marketing ROI Calculator  
+18. Inventory Turnover Calculator   
 
 ---
 ## Project Descriptions
@@ -235,6 +237,27 @@ Concepts used:
 - Input validation
 - Business performance metrics
 
+### Marketing ROI Calculator
+Calculates return on investment (ROI) for marketing campaigns based on cost and revenue generated.
+
+Concepts used:
+- ROI calculations
+- Profit analysis
+- Conditional logic
+- Input validation
+- Marketing performance evaluation
+
+### Inventory Turnover Calculator
+
+Calculates how efficiently inventory is sold and replaced over a period.
+
+Concepts used:
+- Ratio analysis
+- Efficiency metrics
+- Financial calculations
+- Conditional logic
+- Operational performance analysis
+
 
 
 
@@ -279,7 +302,10 @@ These projects demonstrate the following Python and analytical skills:
 - Multi-period performance tracking
 - Business performance interpretation
 
----
+- ROI and marketing performance analysis
+- Inventory efficiency and turnover metrics
+- Ratio-based financial analysis
+- Business performance evaluation
 
 ## Future Projects
 
