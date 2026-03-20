@@ -45,6 +45,9 @@ This repository contains several financial and data analysis tools built with Py
 11. Pricing Strategy Calculator
 12. Revenue Growth Simulator  
 13. Cost Structure Analyzer
+14. Monthly Business KPI Tracker  
+15. Customer Lifetime Value Calculator  
+16. Unit Economics Calculator  
 
 ---
 ## Project Descriptions
@@ -199,6 +202,41 @@ Concepts used:
 - Conditional logic
 - Business cost structure analysis
 
+### Monthly KPI Tracker
+
+Tracks revenue, expenses, and profit over multiple months and provides summary statistics.
+
+Concepts used:
+- Lists and data storage
+- Loops and iteration
+- Aggregation (sum, average)
+- Performance analysis (best/worst month)
+- Business KPI tracking
+
+### Customer Lifetime Value Calculator
+
+Calculates the total value a customer generates over their lifetime.
+
+Concepts used:
+- Financial modelling
+- Multiplication-based metrics
+- Customer analytics
+- Conditional logic for segmentation
+- Business value analysis
+
+### Unit Economics Calculator
+
+Calculates profit per unit and profit margin to assess unit-level profitability.
+
+Concepts used:
+- Profit calculations
+- Margin analysis
+- Conditional logic
+- Input validation
+- Business performance metrics
+
+
+
 
 ## Skills Demonstrated
 
@@ -234,6 +272,12 @@ These projects demonstrate the following Python and analytical skills:
 - Profitability analysis
 - Sales trend interpretation
 - Financial forecasting basics
+
+- KPI tracking and analysis
+- Customer lifetime value modelling
+- Unit economics and margin analysis
+- Multi-period performance tracking
+- Business performance interpretation
 
 ---
 
