@@ -41,6 +41,10 @@ This repository contains several financial and data analysis tools built with Py
 7. Growth Rate Calculator  
 8. Multi-Period Growth Analysis  
 9. Profit Margin Calculator
+10. Break-Even Calculator
+11. Pricing Strategy Calculator
+12. Revenue Growth Simulator  
+13. Cost Structure Analyzer
 
 ---
 ## Project Descriptions
@@ -174,6 +178,26 @@ Concepts used:
 - Financial pricing models
 - User input handling
 - Formatted output
+
+  ### Revenue Growth Simulator
+  Simulates revenue growth over multiple periods using compound growth.
+
+Concepts used:
+- Loops and iteration
+- Compound growth calculations
+- List data storage
+- Financial forecasting
+- Percentage growth analysis
+
+### Cost Structure Analyzer
+
+Analyzes the proportion of fixed and variable costs within total costs.
+
+Concepts used:
+- Percentage calculations
+- Financial analysis
+- Conditional logic
+- Business cost structure analysis
 
 
 ## Skills Demonstrated
