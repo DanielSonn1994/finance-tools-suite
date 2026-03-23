@@ -1,4 +1,4 @@
-# Python Finance & Data Analysis Projects
+# This project is a collection of Python-based financial and data analysis tools, progressing from basic calculations to real-world data visualisation using pandas and matplotlib.
 
 ## Table of Contents
 
@@ -49,7 +49,9 @@ This repository contains several financial and data analysis tools built with Py
 15. Customer Lifetime Value Calculator  
 16. Unit Economics Calculator
 17. Marketing ROI Calculator  
-18. Inventory Turnover Calculator   
+18. Inventory Turnover Calculator
+19. Sales Trend Visualisation  
+20.CSV + Moving Average Analysis
 
 ---
 ## Project Descriptions
@@ -258,6 +260,29 @@ Concepts used:
 - Conditional logic
 - Operational performance analysis
 
+### Sales Trend Visualization
+Visualised sales data over time using line charts.
+
+Concepts used:
+- Data visualisation with matplotlib
+- Line plotting and markers
+- Axis labelling and chart titles
+- Grid and readability improvements
+- Trend analysis
+
+
+### CSV Sales Date Analysis with Moving Average
+
+Loaded real sales data from a CSV file, calculated a moving average, and visualised trends.
+
+Concepts used:
+- Reading CSV data using pandas
+- Dataframe manipulation
+- Rolling calculations (moving average)
+- Multi-line plotting
+- Data smoothing and trend analysis
+- Highlighting key insights (e.g. maximum value)
+
 
 
 
@@ -306,6 +331,12 @@ These projects demonstrate the following Python and analytical skills:
 - Inventory efficiency and turnover metrics
 - Ratio-based financial analysis
 - Business performance evaluation
+
+- Data visualisation using matplotlib
+- Working with external datasets (CSV)
+- Pandas dataframes and data manipulation
+- Rolling calculations and trend smoothing
+- Multi-metric analysis and visualisation
 
 ## Future Projects
 
