@@ -338,15 +338,59 @@ These projects demonstrate the following Python and analytical skills:
 - Rolling calculations and trend smoothing
 - Multi-metric analysis and visualisation
 
-## Future Projects
+### Project 21 — Multi-Metric Sales Dashboard
+Built a multi-chart dashboard using pandas and matplotlib to analyse business performance.
 
-Planned future projects include:
+**Features:**
+- Revenue calculation from raw data
+- Moving average (trend smoothing)
+- Cumulative revenue tracking
+- Multi-chart visualisation (subplots)
 
-- Multi-period growth analysis
-- Sales trend visualisation
-- Data analysis with pandas
-- Basic linear regression modelling
-- Financial forecasting tools
+**Skills:**
+- pandas data manipulation
+- rolling averages
+- cumulative metrics
+- matplotlib subplots
+
+
+---
+
+### Project 22 — Sales Performance Analyzer
+Analysed structured sales data using pandas and visualised trends.
+
+**Features:**
+- DataFrame creation from raw data
+- Datetime conversion
+- Total, average, min, max calculations
+- Best and worst day identification
+- Visualisation with highlighted insights
+
+**Skills:**
+- pandas DataFrame handling
+- idxmax / idxmin
+- data analysis workflows
+- matplotlib plotting and annotations
+
+
+---
+
+### Project 23 — Customer Revenue Analysis
+Analysed customer-level data to evaluate revenue contribution and identify high-value customers.
+
+**Features:**
+- Revenue calculation per customer
+- Total and average revenue analysis
+- Identification of highest and lowest value customers
+- Data summarisation using pandas
+
+**Skills:**
+- pandas data analysis
+- grouping and aggregation
+- identifying key business insights
+- working with structured datasets
+
+
 
 These projects will move toward more advanced **data science and financial analysis workflows**.
 
